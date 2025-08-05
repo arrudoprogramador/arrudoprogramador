@@ -29,7 +29,6 @@ Olá! Me chamo João Pedro, tenho 18 anos e moro em São Paulo - SP. Sou estudan
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arrudoprogramador&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrudoprogramador&layout=compact&theme=radical" height="150"/>
 </div>
 
