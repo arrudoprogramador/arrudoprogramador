@@ -8,7 +8,7 @@ Desenvolvedor Backend em Formação
 
 
 ### 👨‍💻 Sobre mim
-Olá! Me chamo João Pedro, tenho 18 anos e moro em São Paulo - SP. Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec**.
+Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
 
 
 ### 🛠 Tecnologias e Ferramentas
