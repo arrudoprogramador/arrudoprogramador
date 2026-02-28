@@ -29,7 +29,7 @@ Olá! Me chamo João Pedro, tenho 18 anos e moro em São Paulo - SP. Sou estudan
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrudoprogramador&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudoprogramador&layout=compact&theme=radical" height="150"/>
 </div>
 
 ---
@@ -42,9 +42,7 @@ Olá! Me chamo João Pedro, tenho 18 anos e moro em São Paulo - SP. Sou estudan
   <a href="https://www.linkedin.com/in/joão-pedro-arruda-43b49a2b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Arrudoprogramador" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
