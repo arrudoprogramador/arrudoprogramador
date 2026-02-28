@@ -1,15 +1,15 @@
 <h1 align="center">👋 João Pedro Arruda</h1>
 
 <p align="center">
-Desenvolvedor Backend | Estudante
+Desenvolvedor Backend em Formação
 </p>
 
 ---
 
-<!-- 
+
 ### 👨‍💻 Sobre mim
-Olá! Me chamo João Pedro, tenho 18 anos e moro em São Paulo - SP. Sou estudante de **Sistemas da Informação** pela **Fatec** e estudo como desenvolvedor backend, com foco em tecnologias como **NestJS, TypeScript, Node.js e PostgreSQL**.
--->
+Olá! Me chamo João Pedro, tenho 18 anos e moro em São Paulo - SP. Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec**.
+
 
 ### 🛠 Tecnologias e Ferramentas
 <div align="center">
