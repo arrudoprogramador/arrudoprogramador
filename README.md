@@ -6,7 +6,16 @@ Desenvolvedor Backend em Formação
 
 ---
 
+sudo dpkg-reconfigure keyboard-configuration
+Generic 105-key PC
+Portuguese (Brazil)
+Brazil, Nativo
 
+sudo setupcon
+sudo reboot
+
+setxkbmap -query
+setxkbmap br
 ### 👨‍💻 Sobre mim
 Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
 
