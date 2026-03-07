@@ -29,7 +29,7 @@ Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenv
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudoprogramador&layout=compact&theme=radical&cache_seconds=1800" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arrudoprogramador&theme=react-dark"/>
 </div>
 
 ---
