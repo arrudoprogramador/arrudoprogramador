@@ -6,15 +6,35 @@ Desenvolvedor Backend em Formação
 
 ---
 
-sudo dpkg-reconfigure keyboard-configuration
-Generic 105-key PC
-Portuguese (Brazil)
-Brazil, Nativo
-
-sudo setupcon
-sudo reboot
-
-setxkbmap -query
+Exercícios (Instalar o Docker-ce na VM Linux e fazer em ambiente local Ou Fazer no Docker
+Playground):
+1. Além do Nginx, o Apache 2 ou o Apache Tomcat, também são servidores Web muito utilizados
+por programadores PHP, Java, etc.
+Nesse exercício devemos criar um contêiner servidor Apache 2 e colocar uma página
+index.html nele para que seu funcionamento seja testado. Caso o algum contêiner do Nginx
+esteja rodando, parar e excluir o contêiner.
+Fazer conforme os passos:
+1) O contêiner do Apache 2, no Docker hub é chamado httpd. Usar a imagem
+lecolevati/apache-httpd:2.4.63
+2) O caminho da pasta do Apache 2 para publicar html, termina com htdocs. Localizar na
+documentação oficial do Apache 2 (httpd) no Docker hub, qual o caminho completo.
+3) Criar no host a pasta /var/www.
+4) Criar o docker run, com opção de background, com um nome Apache2, com o volume
+mapeado do caminho completo da pasta www do host com o caminho completo da
+pasta htdocs do contêiner, mapeando a porta 80 do hospedeiro com a porta 80 do
+contêiner, que sempre reinicializa. A imagem pode ser a última.
+5) Criar, na máquina hospedeira, na pasta www, um arquivo chamado index.html
+6) Com o vim criar com a seguinte estrutura:
+<head>
+</head>
+<body>
+<div>
+<p><H1>Apache 2 rodando no Docker + <Seu_nome e RA></H1></p>
+</div>
+</body>
+7) Rodar o link para verificar se o contêiner está funcionando.
+8) A resposta da atividade deve ser a linha completa do Docker run e a o print do servidor rodando o
+html
 setxkbmap br
 ### 👨‍💻 Sobre mim
 Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
