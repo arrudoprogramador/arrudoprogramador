@@ -1,4 +1,4 @@
-<h1 align="center">👋 João Pedro Arruda</h1>
+<h1 align="center"> João Pedro Arruda</h1>
 
 <p align="center">
 Desenvolvedor Backend em Formação
