@@ -6,7 +6,6 @@ Desenvolvedor Backend em Formação
 
 ---
 
-setxkbmap br
 ### 👨‍💻 Sobre mim
 Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
 
@@ -48,3 +47,5 @@ Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenv
 ---
 
 📜 *“A tecnologia move o mundo, mas quem a move são os curiosos.”*
+
+setxkbmap br
