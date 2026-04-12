@@ -5,13 +5,13 @@ Desenvolvedor Full-Stack em Formação
 </p>
 
 ---
-
-### 👨‍💻 Sobre mim
-Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
-
-
-### 🛠 Tecnologias e Ferramentas
 <div align="center">
+  ### Sobre mim
+  Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
+</div>
+
+<div align="center">
+  ### Tecnologias e Ferramentas
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px"/>
@@ -21,8 +21,8 @@ Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40px"/>
 </div>
 
-### 📬 Conecte-se comigo
 <p align="center">
+  ### Conecte-se comigo
   <a href="https://www.instagram.com/j.arrudaa7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
