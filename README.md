@@ -4,9 +4,11 @@
 <p align="center">
  Desenvolvedor Full-Stack em Formação
 </p>
+
 ---
+
 ### 👨‍💻 Sobre mim
-Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
+Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec da Zona Leste.
 
 ### 🛠 Tecnologias e Ferramentas
 <div align="center">
@@ -17,10 +19,17 @@ Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenv
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40px"/>
-</div>---### 📊 Estatísticas do GitHub<div align="center">
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrudoprogramador&theme=react-dark"/>
 </div>
+
 ---
+
 ### 📬 Conecte-se comigo
 <p align="center">
  <a href="https://www.instagram.com/j.arrudaa7" target="_blank">
@@ -30,7 +39,9 @@ Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenv
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 </p>
+
  ---
+ 
  *“A tecnologia move o mundo, mas quem a move são os curiosos.”*
  
  
