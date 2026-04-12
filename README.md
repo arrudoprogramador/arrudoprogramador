@@ -7,10 +7,10 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec da Zona Leste.
+### Sobre mim
+Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
 
-### 🛠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 <div align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px"/>
@@ -23,14 +23,14 @@ Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de Análise e Desenvol
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrudoprogramador&theme=react-dark"/>
 </div>
 
 ---
 
-### 📬 Conecte-se comigo
+### Conecte-se comigo
 <p align="center">
  <a href="https://www.instagram.com/j.arrudaa7" target="_blank">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
