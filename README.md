@@ -1,7 +1,7 @@
 <h1 align="center"> João Pedro Arruda</h1>
 
 <p align="center">
-Desenvolvedor Backend em Formação
+Desenvolvedor Full-Stack em Formação
 </p>
 
 ---
