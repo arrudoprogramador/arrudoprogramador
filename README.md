@@ -8,7 +8,7 @@
 ---
 
 ### Sobre mim
-Olá! Me chamo João Pedro, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Fatec da Zona Leste**.
+Olá! Me chamo João Arruda, tenho 18 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec da Zona Leste**.
 
 ### Tecnologias e Ferramentas
 <div align="center">
