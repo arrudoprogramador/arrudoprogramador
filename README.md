@@ -18,8 +18,9 @@ Olá! Me chamo João Arruda, tenho 18 anos e sou estudante de **Análise e Desen
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px"/>
+<div style="width:40px;height:40px;background:linear-gradient(135deg,#3178C6,#5AA9FF);border-radius:12px;display:flex;align-items:center;justify-content:center;">
+  <img src="https://cdn.simpleicons.org/assemblyscript/white" width="22">
+</div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"/>
