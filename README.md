@@ -32,7 +32,7 @@ Olá! Me chamo João Arruda, tenho 18 anos e sou estudante de **Análise e Desen
 
 ### Estatísticas do GitHub
 <div align="center">
-<img src="https://raw.githubusercontent.com/arrudoprogramador/github-profile/output/activity-graph.svg">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrudoprogramador&theme=github_dark">
 </div>
 
 ---
